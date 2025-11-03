@@ -5,7 +5,8 @@ build/
 dist/
 wheels/
 *.egg-info
-musicas/
+musica/
+capas/
 
 # Virtual environments
 .venv
